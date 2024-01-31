@@ -1,5 +1,5 @@
 # cs255CW1
-This is my my seccond year Coursework on the topic of concurent programing
+My second year course work on the topic of concurrent programming
 This application models an **Exchange System** with multiple **Clients** attempting to buy **Shares** from a **Company** at the same time 
 
 
